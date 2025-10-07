@@ -1,4 +1,4 @@
-# social--media-dashboard
+# social-media-dashboard
 
 A responsive web application that aggregates social media feeds from multiple platforms into a single, unified dashboard interface.
 
